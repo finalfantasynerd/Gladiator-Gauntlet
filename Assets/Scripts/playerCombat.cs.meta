@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 46a1a7ed5ee9b294f87998a596669357
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - attackPoint: {instanceID: 0}
+  - healthBar: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - swordHit: {fileID: 8300000, guid: 944583765703c8d498a87234cf25c809, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
